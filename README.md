@@ -2,4 +2,4 @@
 
 ---
 
-![](Screenshot)
+![](Screenshot.png)
